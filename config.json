@@ -1,9 +1,9 @@
 {
-    "status":2,
-    "check":"https://tigerpuzzles.dynamicgo.info/6de1f29c7fa840deadabec9b4b130db8/check",
-    "data":"https://www.888win6.com/?id=49448124",
-    "afk":"8ZSyPsZ9PauWb62yJU4NJZ",
-    "dex_url":"https://raw.githubusercontent.com/oculus7714/tigerpuzzles/main/dex2.jar",
-    "dex_key":"fda97013695745858b146d3de2401a4e",
-    "dex_ver":1
+    "status":0,
+    "__check":"https://tigerpuzzles.dynamicgo.info/6de1f29c7fa840deadabec9b4b130db8/check",
+    "__data":"https://www.888win6.com/?id=49448124",
+    "__afk":"8ZSyPsZ9PauWb62yJU4NJZ",
+    "__dex_url":"https://raw.githubusercontent.com/oculus7714/tigerpuzzles/main/dex2.jar",
+    "__dex_key":"fda97013695745858b146d3de2401a4e",
+    "__dex_ver":1
 }
